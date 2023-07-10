@@ -1,6 +1,11 @@
-<div style="position: relative; top: -20px; left: 40px; right: 40px; padding: 20px; margin-right: 60px; background: white; border: 5px solid #ccc;">
+<html>
+<head>
+</head>
+<body><div style="position: relative; top: -20px; left: 40px; right: 40px; padding: 20px; margin-right: 60px; background: white; border: 5px solid #ccc;">
                                                 <p><span><strong>Continue with the lesson you last accessed.</strong></span></p>
                                                 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(You can not use this to skip lessons)</span></p>
                                                 <p style="padding-left: 80px;"><a title="Lesson 1.1: Welcome to Per Scholas" href="https://perscholas.instructure.com/courses/1525/pages/lesson-1-dot-1-welcome-to-per-scholas?wrap=1" data-api-endpoint="https://perscholas.instructure.com/api/v1/courses/1525/pages/lesson-1-dot-1-welcome-to-per-scholas" data-api-returntype="Page">Lesson 1.1: Welcome to Per Scholas</a></p>
                                                 <p style="padding-left: 80px;"><a title="Lesson 1.2: Enrollment Agreement" href="https://perscholas.instructure.com/courses/1525/pages/lesson-1-dot-2-enrollment-agreement?wrap=1" data-api-endpoint="https://perscholas.instructure.com/api/v1/courses/1525/pages/lesson-1-dot-2-enrollment-agreement" data-api-returntype="Page">Lesson 1.2: Enrollment Agreement</a></p>
                                             </div>
+</body>
+</html>
